@@ -1,0 +1,14 @@
+supawit@supawit:~$ mkdir -p Final714
+supawit@supawit:~$ cd Final714/
+supawit@supawit:~/Final714$ CLASS_ROBOT.txt
+CLASS_ROBOT.txt: command not found
+supawit@supawit:~/Final714$ mkdir 714_Directory
+supawit@supawit:~/Final714$ ls
+714_Directory
+supawit@supawit:~/Final714$ touch CLASS_ROBOT.txt
+supawit@supawit:~/Final714$ ls
+714_Directory  CLASS_ROBOT.txt
+supawit@supawit:~/Final714$ 
+
+
+
